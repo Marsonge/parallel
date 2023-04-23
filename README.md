@@ -6,7 +6,7 @@ parallel
 [![Windows](https://github.com/krakjoe/parallel/actions/workflows/windows.yml/badge.svg)](https://github.com/krakjoe/parallel/actions/workflows/windows.yml)
 [![Coverage Status](https://coveralls.io/repos/github/krakjoe/parallel/badge.svg?branch=develop)](https://coveralls.io/github/krakjoe/parallel)
 
-A succinct parallel concurrency API for PHP 8
+A succinct parallel concurrency API for PHP 8 
 
 Documentation
 =============
